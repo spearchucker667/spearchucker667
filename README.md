@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img width="2172" height="724" alt="ChatGPT Image Jun 1, 2026 at 04_31_38 AM" src="https://github.com/user-attachments/assets/7c5def83-2c13-4cd8-9ce7-c509471a3f2c" />
+  <img width="1855" height="724" alt="anime_girl_readme_transparent_cropped" src="https://github.com/user-attachments/assets/958c83bd-1443-4bc6-a640-5f4eb2144615" />
 
-# But enough about you, lets talk about me for a change of pace
+# AbstegoSweden
 
 ### AI red-team tooling · agentic dev workflows · privacy-first AI clients · cross-platform automation
 
