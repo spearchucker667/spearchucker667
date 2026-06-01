@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img width="1855" height="724" alt="anime_girl_readme_transparent_cropped" src="https://github.com/user-attachments/assets/958c83bd-1443-4bc6-a640-5f4eb2144615" />
+ <img width="2290" height="687" alt="ChatGPT Image Jun 1, 2026 at 06_18_14 AM" src="https://github.com/user-attachments/assets/e6c1d6f3-0072-4d75-8e17-e2c3e5e975e2" />
+
 
 # AbstegoSweden
 
