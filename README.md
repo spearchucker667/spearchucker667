@@ -297,4 +297,3 @@ For serious repos, I optimize toward:
 ### Building sharper AI tools, harder prompts, cleaner repos, and better local workflows.
 
 </div>
-```
